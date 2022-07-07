@@ -13,7 +13,7 @@ knitr::opts_chunk$set(echo = TRUE)
 
 ```{r, echo = TRUE}
 
-nyc <- read.csv("https://raw.githubusercontent.com/fredlapolla/RScience2020/master/NYC_HANES_DIAB.csv")
+nyc <- read.csv("https://raw.githubusercontent.com/fredlapolla/RVilcekMaster2022/main/NYC_HANES_DIAB.csv")
 
 
   
